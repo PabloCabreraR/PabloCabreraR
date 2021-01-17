@@ -11,7 +11,9 @@ It's been a while since I got interested in the tech world but for personal reas
 
 I am a person who loves logical challenges. I am creative both artistically and looking for solutions. So programming is **my thing**:muscle:. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. I hope to get a job soon in the next few months.:technologist:
 
-Technologies I've already studied and practice:<br/>
+Technologies I've already studied and practice:
+<br/>
+<br/>
 <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
 <img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
@@ -19,11 +21,14 @@ Technologies I've already studied and practice:<br/>
 <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic' />
 
 <br/>
-Technologies I'm actually studying:<br/>
+Technologies I'm actually studying:
+<br/>
+<br/>
 
 <br/>
-Technologies I would like to learn soon:<br/>
-
+Technologies I would like to learn soon:
+<br/>
+<br/>
 
 <br/>
 

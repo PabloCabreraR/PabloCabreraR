@@ -11,8 +11,25 @@ It's been a while since I got interested in the tech world but for personal reas
 
 I am a person who loves logical challenges. I am creative both artistically and looking for solutions. So programming is **my thing**:muscle:. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. I hope to get a job soon in the next few months.:technologist:
 
-I like computers:computer:, books:books:, movies:clapper:, music:musical_score:, video-games:video_game:, and logical puzzles:infinity:.
+Technologies I've already studied and practice:<br/>
+<img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
+<img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic' />
+<img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
+<img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
+<img alt='MySQL' src='https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic' />
 
+<br/>
+Technologies I'm actually studying:<br/>
+
+<br/>
+Technologies I would like to learn soon:<br/>
+
+
+<br/>
+
+I like computers:computer:, books:books:, movies:clapper:, music:musical_score:, video-games:video_game:, and logical puzzles:infinity:.
+<br/>
+<br/>
 
 ![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=PabloCabreraR&theme=dark&show_icons=true)
 

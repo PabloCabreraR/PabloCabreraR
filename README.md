@@ -10,7 +10,7 @@
 It's been a while since I got interested in the tech world but for personal reasons I didn't have the chance to start learning what I really love until this past year 2020. Finally It's time to feel complete.
 
 I am a person who loves logical challenges. I am creative both artistically and looking for solutions. So programming is **my thing**:muscle:. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. I hope to get a job soon in the next few months.:technologist:
-
+/*
 Technologies I've already studied and practice:
 <br/>
 <br/>
@@ -29,7 +29,7 @@ Technologies I'm actually studying:
 Technologies I would like to learn soon:
 <br/>
 <br/>
-
+*/
 <br/>
 
 I like computers:computer:, books:books:, movies:clapper:, music:musical_score:, video-games:video_game:, and logical puzzles:infinity:.

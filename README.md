@@ -37,6 +37,9 @@ I like computers:computer:, books:books:, movies:clapper:, music:musical_score:,
 <br/>
 <br/>
 
+<img alt='CodeWars' src='https://www.codewars.com/users/PabloCabreraR/badges/large' />
+
+
 ![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=PabloCabreraR&theme=dark&show_icons=true?count_private=true)
 
 [linkedin]: https://www.linkedin.com/in/pablo-cabrera-rosado-3a76821b7/

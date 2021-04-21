@@ -11,7 +11,7 @@ It's been a while since I got interested in the tech world but for personal reas
 
 I am a person who loves logical challenges. I am creative both artistically and looking for solutions. I found out programming is **my passion**:muscle:. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. I hope to get a job soon in the next few months.:technologist:
 
-### My Stack:
+Techmologies:
 <br/>
 <br/>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
@@ -31,7 +31,7 @@ I am a person who loves logical challenges. I am creative both artistically and 
 <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic' />
 
-####Other utilities
+Other utilities:
 <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
 <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic' />
 <img alt='Slack' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />

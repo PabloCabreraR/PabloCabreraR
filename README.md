@@ -1,8 +1,8 @@
 ## Hi! I'm Pablo Cabrera:wave:
-[<img align='left' alt=' PabloCabreraR | LinkedIn' width='22px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
-[<img align='left' alt=' PabloCabreraR | Gmail' width='22px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
-[<img align='left' alt=' PabloCabreraR | Whatsapp' width='22px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-2.png' />][whatsapp]
-[<img align='left' alt=' PabloCabreraR | Facebook' width='22px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png' />][facebook]
+[<img align='left' alt=' PabloCabreraR | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
+[<img align='left' alt=' PabloCabreraR | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
+[<img align='left' alt=' PabloCabreraR | Whatsapp' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-2.png' />][whatsapp]
+[<img align='left' alt=' PabloCabreraR | Facebook' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png' />][facebook]
 
 
 <br/><hr>
@@ -11,7 +11,7 @@ It's been a while since I got interested in the tech world but for personal reas
 
 I am a person who loves logical challenges. I am creative both artistically and looking for solutions. I found out programming is **my passion**:muscle:. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. I hope to get a job soon in the next few months.:technologist:
 
-Techmologies:
+Technologies:
 <br/>
 <br/>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />

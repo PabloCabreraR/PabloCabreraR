@@ -6,7 +6,7 @@
 
 
 <br/><hr>
-### I'm a FullStack Developer trainee.
+### I'm a Junior FullStack Developer.
 It's been a while since I got interested in the tech world but for personal reasons I didn't have the chance to start learning what I really love until this past year 2020. Finally It's time to feel complete.
 
 I am a person who loves logical challenges. I am creative both artistically and looking for solutions. I found out programming is **my passion**:muscle:. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. I hope to get a job soon in the next few months.:technologist:

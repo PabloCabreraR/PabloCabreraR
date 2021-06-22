@@ -7,21 +7,21 @@
 
 <br/><hr>
 ### I'm a Junior FullStack Developer.
-It's been a while since I got interested in the tech world but for personal reasons I didn't have the chance to start learning what I really love until this past year 2020. Finally It's time to feel complete.
-
-I am a person who loves logical challenges. I am creative both artistically and looking for solutions. I found out programming is **my passion**:muscle:. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. I hope to get a job soon.:technologist:
+I love logical challenges. I am creative both artistically and looking for solutions. Programming is the perfect mix between what I like the most: technology, creativity and logical challenges. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. I now work as a Teacher Assistant where all started. I'm willing to keep learning and growing as a developer.:technologist:
 
 Technologies:
 <br/>
 <br/>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
+<img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
+<img alt='TypeScript' src='https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=plastic' />
 <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
 <img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic' />
 <img alt='Sass' src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white&style=plastic" />
 <img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?logo=bootstrap&logoColor=white&style=plastic' />
 <img alt='Canvas' src='https://img.shields.io/badge/-Canvas-E05F2C?logo=canvas&logoColor=white&style=plastic' />
-<img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <img alt='Jasmine' src='https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=plastic' />
+<img alt='Jest' src='https://img.shields.io/badge/-Jest-FFA787?logo=jest&logoColor=white&style=plastic' />
 <br/>
 <br/>
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
@@ -38,6 +38,7 @@ Other utilities:
 <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic' />
 <img alt='Slack' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />
 <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white&style=plastic' />
+<img alt='MongoCompass' src='http://img.shields.io/badge/-MongoCompass-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
 <img alt='Visual Studio' src='https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white&style=plastic' />
 

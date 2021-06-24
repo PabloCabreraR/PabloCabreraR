@@ -7,6 +7,9 @@
 
 <br/><hr>
 ### I'm a Jr FullStack Web Developer.
+<br/>
+![](https://komarev.com/ghpvc/?username=PabloCabreraR&label=PROFILE+VIEWS&color=blueviolet)
+<br/>
 I love logical challenges. I am creative both artistically and looking for solutions. Programming is the perfect mix between what I like the most: technology, creativity and logical challenges. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. I now work as a Teacher Assistant where all started. I'm willing to keep learning and growing as a developer.:technologist:
 
 Technologies:

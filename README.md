@@ -6,10 +6,12 @@
 
 
 <br/><hr>
-### I'm a Jr FullStack Web Developer.
+### I'm a FullStack Web Developer.
 ![](https://komarev.com/ghpvc/?username=PabloCabreraR&label=PROFILE+VIEWS&color=blueviolet)
 <br/>
-I love logical challenges. I am creative both artistically and looking for solutions. Programming is the perfect mix between what I like the most: technology, creativity and logical challenges. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. I now work as a Teacher Assistant where all started. I'm willing to keep learning and growing as a developer.:technologist:
+I love logical challenges. I am creative both artistically and looking for solutions. Programming is the perfect mix between what I like the most: technology, creativity and logical challenges. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. When I finish my bootcamp they gave me the oportunity to be a Teacher Assistant, where all started. After some time myy hunger of keep growing made me search for some new opportunities and now I'm a FullStack Dev at Insendi.
+
+You can contact me using any of the links in the top of this screen. ⬆️
 
 Technologies:
 <br/>

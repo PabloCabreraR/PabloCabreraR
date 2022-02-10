@@ -2,7 +2,6 @@
 [<img align='left' alt=' PabloCabreraR | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
 [<img align='left' alt=' PabloCabreraR | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
 [<img align='left' alt=' PabloCabreraR | Whatsapp' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-2.png' />][whatsapp]
-[<img align='left' alt=' PabloCabreraR | Facebook' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png' />][facebook]
 
 
 <br/><hr>

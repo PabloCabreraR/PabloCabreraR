@@ -8,7 +8,18 @@
 ### I'm a SRE Engineer
 ![](https://komarev.com/ghpvc/?username=PabloCabreraR&label=PROFILE+VIEWS&color=blueviolet)
 <br/>
-I love logical challenges. I am creative both artistically and looking for solutions. Programming is the perfect mix between what I like the most: technology, creativity and logical challenges. I started learning programming in a self-taught way and then I applied for the Ironhack's Web Dev bootcamp. When I finish my bootcamp they gave me the oportunity to be a Teacher Assistant, where all started. After some time myy hunger of keep growing made me search for some new opportunities and now I'm a Site Reliability Engineer at Insendi.
+I'm a confident and commited person, curious by nature. I always give 200% of me in doing things the right way and helping other if I can. I'm not going to lie, Im also a funny guy with a big sense of humor.
+
+"Give a man a fish and you'll feed him for a day. Teach a man to fish and you'll feed him for a lifetime"
+
+Certifications: 
+<div style="display:flex; flex-direction: row; justify-content:center; align-items:center;">
+  <img alt="AWS Solutions Architect Badge" src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_badge_512x512.139edbefd4d7e9a16213032f592bdd8ca769dced.png" style="width: 200px;" />
+  <img alt="Hashicorp Terraform Badge" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" style="width: 190px;"/>
+  <img alt="AWS Cloud Practitioner Badge" src="https://www.w3schools.com/aws/images/awscert.png" style="width: 200px; position: relative;display: inline-block;"/>
+  <img alt="Scrum Master Badge" src="https://i2.wp.com/www.qagile.pl/wp-content/uploads/2018/10/Szkolenie-Professional-Scrum-Master-logo.png?fit=400%2C400&ssl=1" style="width: 210px;"/>
+</div>
+
 
 You can contact me using any of the links that are below the title of this readme file. ⬆️
 
@@ -55,8 +66,6 @@ Other utilities:
 
 <br/>
 
-I like computers:computer:, books:books:, movies:clapper:, music:musical_score:, video-games:video_game:, and logical puzzles:infinity:.
-<br/>
 <br/>
 
 <img alt='CodeWars' src='https://www.codewars.com/users/PabloCabreraR/badges/large' />

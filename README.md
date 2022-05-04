@@ -1,7 +1,7 @@
 ## Hi! I'm Pablo Cabrera:wave:
-[<img align='left' alt=' PabloCabreraR | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
-[<img align='left' alt=' PabloCabreraR | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
-[<img align='left' alt=' PabloCabreraR | Whatsapp' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-2.png' />][whatsapp]
+[<img align='left' alt=' PabloCabreraR | LinkedIn' width='32px' src='https://cdn.icon-icons.com/icons2/31/PNG/256/sociallinkedin_member_2751.png' />][linkedin]
+[<img align='left' alt=' PabloCabreraR | Gmail' width='32px' src='https://cdn.icon-icons.com/icons2/1381/PNG/512/gmail_93551.png' />][Gmail]
+[<img align='left' alt=' PabloCabreraR | Whatsapp' width='32px' src='https://cdn.icon-icons.com/icons2/41/PNG/128/whatsappmessage_conversation_whatsap_7149.png' />][whatsapp]
 
 
 <br/><hr>
